@@ -43,4 +43,3 @@ def engwords():
 
 def dictionary(thaiwords, engwords):
     thaieng = dict([purethai, pureeng])
-    print(thaieng)
